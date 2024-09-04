@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Trees", "3-Trees\3-Trees.csproj", "{02CA1C55-CC54-49CF-B982-5EE1DB5AECD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Trees-Runnable", "3-Trees-Runnable\3-Trees-Runnable.csproj", "{1C89F009-9AC1-481F-BD96-A6ED73A50062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Trees-Test", "3-Trees-Test\3-Trees-Test.csproj", "{4ABF3E0E-6DD2-4BCA-A14E-B1D7DFD65A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CA1C55-CC54-49CF-B982-5EE1DB5AECD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CA1C55-CC54-49CF-B982-5EE1DB5AECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CA1C55-CC54-49CF-B982-5EE1DB5AECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CA1C55-CC54-49CF-B982-5EE1DB5AECD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C89F009-9AC1-481F-BD96-A6ED73A50062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C89F009-9AC1-481F-BD96-A6ED73A50062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C89F009-9AC1-481F-BD96-A6ED73A50062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C89F009-9AC1-481F-BD96-A6ED73A50062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABF3E0E-6DD2-4BCA-A14E-B1D7DFD65A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABF3E0E-6DD2-4BCA-A14E-B1D7DFD65A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABF3E0E-6DD2-4BCA-A14E-B1D7DFD65A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABF3E0E-6DD2-4BCA-A14E-B1D7DFD65A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
