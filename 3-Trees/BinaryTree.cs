@@ -8,7 +8,7 @@ namespace ALGA
 {
     public class BinaryTree
     {
-        public Node root;
+        public Node? root;
 
         /**
          * Inserts a number into the tree
